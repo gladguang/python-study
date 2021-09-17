@@ -13,9 +13,9 @@ def get_content(target):
     return content
 
 if __name__ == '__main__':
-    server = 'http://www.biquxs520.com/'
-    book_name = '重回1980小人物.txt'
-    target = 'http://www.biquxs520.com/82408/'
+    server = 'https://www.bookjia.com/'
+    book_name = '重生之造富年代.txt'
+    target = 'https://www.bookjia.com/20421/'
     req = requests.get(url = target)
     req.encoding = 'utf-8'
     html = req.text
