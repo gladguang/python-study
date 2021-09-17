@@ -10,6 +10,7 @@ chardet==4.0.0
 charset-normalizer==2.0.4
 colorama==0.4.4
 cryptography==3.4.8
+DateTime==4.3
 idna==3.2
 lxml==4.6.3
 multidict==5.1.0
@@ -26,3 +27,4 @@ tqdm==4.62.2
 typing-extensions==3.10.0.2
 urllib3==1.26.6
 yarl==1.6.3
+zope.interface==5.4.0
